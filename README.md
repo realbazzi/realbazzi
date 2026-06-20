@@ -2,7 +2,7 @@
 
 Ein Chrome Addon, dass den Punkte Rain auf https://realbazzi.com trackt und automatisch sammelt, wenn verfügbar.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](https://github.com/realbazzi/rain-claimer/tree/main/assets)
 
 ## 🚀 Installation
 
