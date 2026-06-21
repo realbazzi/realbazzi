@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "RealBazzi Rain Monitor",
-  "version": "2.2",
+  "version": "2.3",
   "description": "Rain Monitor mit Auto Claim + GUI",
   "icons": {
    "16": "16x16.png",
