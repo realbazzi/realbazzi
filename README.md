@@ -6,7 +6,7 @@ Ein Chrome Addon, dass den Punkte Rain auf https://realbazzi.com trackt und auto
 
 ## 🚀 Installation
 
-1. Downloade das [letzte release](https://github.com/realbazzi/realbazzi/releases/tag/v2.2) oder klone die Repository und entpacke die *.zip Datei
+1. Downloade das [letzte release](https://github.com/realbazzi/realbazzi/releases/latest) oder klone die Repository und entpacke die *.zip Datei
 2. Öffne Chrome und navigiere zu (gib das in der Suchleiste ein) `chrome://extensions/`
 3. Aktivere den "Entwickler Modus" (Schalter oben rechts)
 4. Klicke auf "Entpackte Erweiterung laden" (oben links) und wähle den entpackten Ordner
