@@ -52,3 +52,8 @@ Ein Chrome Addon, dass den Punkte Rain auf https://realbazzi.com trackt und auto
 - Authentication Header werden vom Site-Request übernommen
 - Es werden ausschließlich Anfragen an die Website selbst gesendet
 - Die Daten des Nutzers werden gelöscht, sobald das Tracking beendet oder der Browser geschlossen wird
+
+## TO-DO
+
+- Telegram Bot für Benachrichtigungen
+- Discord Bot für Benachrichtigungen
