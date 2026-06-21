@@ -3,7 +3,7 @@
 Ein Chrome Addon, dass den Punkte Rain auf https://realbazzi.com trackt und automatisch sammelt, wenn verfügbar.
 
 ![Screenshot](assets/screenshot.png)
-![Screenshot](screenshot_1.png)
+![Screenshot](assets/screenshot_1.png)
 
 ## 🚀 Installation
 
