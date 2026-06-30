@@ -56,5 +56,10 @@ Ein Chrome Addon, dass den Punkte Rain auf https://realbazzi.com trackt und auto
 
 ## TO-DO
 
-- Telegram Bot für Benachrichtigungen
+- [~~Telegram Bot für Benachrichtigungen~~](https://github.com/realbazzi/rain-notifier/tree/main)
 - Discord Bot für Benachrichtigungen
+
+## Disclaimer
+
+Ich übernehme keine Haftung für gebannte Accounts, Datenverluste, Konsequenzen oder andere Schäden. Dieses Tool dient ausschließlich zu Schulungs- und Demonstrationszwecken.
+Die Nutzung erfolgt auf eigene Verantwortung.
